@@ -32,8 +32,8 @@ let PORTFOLIO = [
   { code: '0056',  name: '元大高股息',      type: 'etf',  shares: 1, cost: 37.07, ma20: null },
   { code: '00919', name: '群益台灣精選高息',type: 'etf',  shares: 1, cost: 23.49, ma20: null },
   // 債券ETF
-  { code: '00937B', name: '群益ESG投等債20+', type: 'bond', shares: 200,  cost: 16.17, ma20: null },
-  { code: '00786B', name: '元大10年IG銀行債', type: 'bond', shares: 450,  cost: 34.54, ma20: null },
+  { code: '00937B', name: '群益ESG投等債20+', type: 'bond', shares: 1,  cost: 16.17, ma20: null },
+  { code: '00786B', name: '元大10年IG銀行債', type: 'bond', shares: 1,  cost: 34.54, ma20: null },
 ];
 
 // ── 狀態 ────────────────────────────────────────────
